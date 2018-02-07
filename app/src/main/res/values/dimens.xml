@@ -1,0 +1,17 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="md_key_lines">16dp</dimen>
+    <dimen name="navheader_height">222dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+    <dimen name="tile_padding">10dp</dimen>
+    <dimen name="md_keylines">16dp</dimen>
+    <dimen name="card_height">40dp</dimen>
+    <dimen name="item_list_title_size">20sp</dimen>
+    <dimen name="item_list_btn_width">130dp</dimen>
+    <dimen name="splash_activity_text_view_welcome_size">28sp</dimen>
+    <dimen name="splash_activity_text_view_height">100dp</dimen>
+    <dimen name="splash_activity_text_view_elevation">15dp</dimen>
+    <dimen name="splash_activity_margin_count_down">30dp</dimen>
+    <dimen name="splash_activity_margin_count_down_right">10sp</dimen>
+    <dimen name="splash_activity_margin_count_down_top">10dp</dimen>
+</resources>

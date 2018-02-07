@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Multi Download</string>
+    <string name="action_about">About</string>
+    <string name="item_title">Download Title</string>
+    <string name="item_list_btn_download">Download</string>
+    <string name="item_list_btn_pause">PAUSE</string>
+    <string name="dialog_download_editText">下载地址</string>
+    <string name="dialog_download_fileName">文件名</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_item_search">Search</string>
+    <string name="menu_item_download">download</string>
+    <string name="menu_item_manage">manage</string>
+    <string name="splash_activity_text_view_welcome">操作系统课设</string>
+    <string name="main_activity_button_access">ACCESS</string>
+    <string name="main_activity_btn_download">Download</string>
+</resources>

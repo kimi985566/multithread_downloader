@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <cn.lemon.view.CountdownView
+            android:id="@+id/splash_activity_count_down"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/splash_activity_margin_count_down_right"
+            android:layout_marginTop="@dimen/splash_activity_margin_count_down_top" />
+
+        <TextView
+            android:id="@+id/splash_activity_text_view_app_name"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/splash_activity_text_view_height"
+            android:layout_alignParentBottom="true"
+            android:background="@color/colorPrimary"
+            android:elevation="@dimen/splash_activity_text_view_elevation"
+            android:gravity="center"
+            android:text="@string/splash_activity_text_view_welcome"
+            android:textColor="@color/splash_activity_text_view_welcome"
+            android:textSize="@dimen/splash_activity_text_view_welcome_size" />
+
+    </RelativeLayout>
+
+</LinearLayout>
